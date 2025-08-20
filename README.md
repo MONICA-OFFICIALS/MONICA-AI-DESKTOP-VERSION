@@ -18,7 +18,7 @@
 - **Internet:** Required for initial setup and updates
 
 ### Quick Install
-1. Download `monica.exe` from the https://github.com/MONICA-OFFICIALS/MONICA-AI-DESKTOP-VERSION/releases/latest/download/Monica_Desktop.exe page
+1. Download `monica.exe` 
 2. Run the installer as Administrator
 3. Follow the setup wizard
 4. Launch Monica AI from your desktop
